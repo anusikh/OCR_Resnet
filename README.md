@@ -1,7 +1,6 @@
 # OCR_Resnet
 
 ![python version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-blue?logo=python)
-![](images/upload.PNG)
 
 - This is my implementation of an OCR using Resnet. 
 
@@ -15,3 +14,4 @@
 ```
 $ python ocr_handwriting.py --model handwriting.model --image images/umbc_address.png
 ```
+![](images/upload.PNG)
