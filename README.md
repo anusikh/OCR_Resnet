@@ -4,7 +4,7 @@
 
 - This is my implementation of an OCR using Resnet. 
 
-- Resnet is one of the best Neural Network architectures for image classification and it's biggest advantage is the fact that it as the network depth increases, it cancels negative outcomes.
+- Resnet is one of the best Neural Network architectures for image classification and it's biggest advantage is the fact that as the network depth increases, it cancels negative outcomes.
 
 - I have used the MNIST dataset for numbers and A_Z dataset from Kaggle for the letters.
 
